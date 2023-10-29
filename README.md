@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
 ## Hi there! 👋 I'm Ernesto Moyano
 
 ### Senior QA Engineer | Scrum Master | Software Developer
@@ -48,3 +50,9 @@ Every day, I challenge myself to truly understand the client's needs. Through th
 - 📈 Nagios / Kibana / Splunk / New Relic
 - 🔍 Wireshark / Nmap / Ethical Hacking Tools
 - 📡 Arduino / Assembler / Apple HomeKit
+
+  #### Languages
+
+- 🇺🇸 English
+- 🇪🇸 Spanish
+- 🇵🇹 Portuguese
