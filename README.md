@@ -2,7 +2,7 @@
 
 ### Senior QA Engineer | Scrum Master | Software Developer
 
-🌍 Argentina | 📧 ernesto@example.com | 💼 [LinkedIn](https://www.linkedin.com/in/ernestomoyano)
+🌍 Argentina | 📧 ef.moyano@gmail.com | 💼 [LinkedIn]([https://www.linkedin.com/in/ernestomoyano](https://www.linkedin.com/in/ernesto-moyano-15b64927/))
 
 ### About Me
 
